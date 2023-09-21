@@ -8,3 +8,7 @@ O projeto de pesquisa de mestrado tem como objetivo investigar as abordagens, os
 <b><h1>Perfil de Socioeconômico</h1> </b>
 <link>https://forms.gle/bDTPutMn5M3eLV7j6</link>
 </p>
+<p>
+<b><h1>Diagnose - Disciplinas </h1> </b>
+<link>https://forms.gle/99jPyi1mW4XXpsvS9</link>
+</p>
